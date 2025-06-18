@@ -22,7 +22,7 @@ I'm a passionate **Web Developer** based in Arusha, Tanzania, with a strong focu
 
 Here are some of the technologies I'm proficient in or actively working with:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,reactnative,git,github,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,reactnative,figma)](https://skillicons.dev)
 
 * **Core Web:** HTML, CSS, JavaScript
 * **Frontend:** React.js, [Currently learning Next.js]
