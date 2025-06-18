@@ -46,8 +46,8 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 Showcase your activity and top languages. You can customize the theme and options.
 
-![Jackson Tarimo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Thejacksonjet]&show_icons=true&theme=radical&hide_border=true)
+![Jackson Tarimo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thejacksonjet&show_icons=true&theme=radical&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Thejacksonjet]&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thejacksonjet&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
