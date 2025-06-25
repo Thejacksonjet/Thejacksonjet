@@ -34,7 +34,7 @@ Here are some of the technologies I'm proficient in or actively working with:
 ---
 ### 📊 GitHub Stats & Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thejacksonjet&layout=compact&theme=tokyonight&langs_count=6)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thejacksonjet&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
