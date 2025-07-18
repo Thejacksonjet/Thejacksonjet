@@ -15,7 +15,6 @@ I'm a passionate **Web Developer** based in Arusha, Tanzania, with a strong focu
 
 * **Next.js:** Mastering its features for robust and performant web applications.
 * **React Native:** Building native-like mobile experiences from a single codebase.
-* **TypeScript Syntax:** Understanding and applying strong typing for more robust and maintainable JavaScript code.
 
 ---
 
